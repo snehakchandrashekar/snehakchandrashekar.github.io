@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Projects"
+title: "About me"
 ---
 
 Welcome!
 
-I'm a graduate student studying MS in Elecrtrical and Computer Engineering at University of California, Santa Cruz with expertise in Hardware ASIC design with strong academic and practical experience in digital systems and VLSI design
-I will be graduating in 2025!.
+I am currently a graduate student pursuing an MS in Electrical and Computer Engineering at the University of California, Santa Cruz. My area of expertise lies in Hardware ASIC design, with a strong academic background and practical experience in digital systems and VLSI design. I am scheduled to graduate in 2025.
 
-I did my BE in Electrical and Electronics from The National Institute of Engineering, Mysuru.
+I completed my BE in Electrical and Electronics at The National Institute of Engineering, Mysuru.
+
+I worked as an application development analyst for approximately three years at Accenture Solutions Pvt. Ltd in Bengaluru, India.
+
 
 
 
