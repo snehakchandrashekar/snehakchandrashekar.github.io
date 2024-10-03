@@ -11,7 +11,7 @@ I completed my BE in Electrical and Electronics at The National Institute of Eng
 
 I worked as an application development analyst for approximately three years at Accenture Solutions Pvt. Ltd in Bengaluru, India.
 
-I love traveling and photography. You can check my photos at [Unsplash] (https://unsplash.com/@itssnehac)
+I love traveling and photography. You can check my photos at <a href="https://unsplash.com/@itssneha" target="_blank" rel="noopener noreferrer">Unsplash</a>.
 
 
 
