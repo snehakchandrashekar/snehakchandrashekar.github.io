@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "IoT-based Solar Tracking and Monitoring System"
 layout: post
 ---
 
