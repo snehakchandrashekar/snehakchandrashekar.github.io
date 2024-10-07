@@ -9,7 +9,7 @@ I am currently a graduate student at the University of California, Santa Cruz, p
 
 Before embarking on this journey, I earned my Bachelor of Engineering in Electrical and Electronics from the National Institute of Engineering, Mysuru. Following that, I had the privilege of working as an Application Development Analyst at Accenture Solutions Pvt. Ltd., Bengaluru, where I spent nearly three years solving real-world challenges and honing my skills in innovative problem-solving.
 
-Beyond academics and work, I'm an avid traveler and photography enthusiast. Capturing the world through my lens gives me a sense of adventure and creativity. Feel free to explore my photography portfolio on <a href="https://unsplash.com/@itssneha" target="_blank" rel="noopener noreferrer">Unsplash</a>.
+Beyond academics and work, I'm an avid traveler and photography enthusiast. Capturing the world through my lens gives me a sense of adventure and creativity. Feel free to explore my photography portfolio on <a href="https://unsplash.com/@itssneha" target="_blank" rel="noopener noreferrer">Unsplash</a> and Instagram - <a href="https://www.instagram.com/the_shutterbug_memories/" target="_blank" rel="noopener noreferrer">the_shutterbug_memories</a> .
 
 Thanks for stopping by! Let’s connect and explore the exciting world of technology and creativity together.
 
